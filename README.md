@@ -66,9 +66,9 @@ Le tunnel élémentaire de Trinity est également une exception car il mesure mo
 Pour la gestion de la sécurité, on utilise un niveau d’agrégation supérieur en employant usuellement le terme “tunnel”, au singulier ou au pluriel. On dit : le tunnel d’Orly, les tunnels de Thiais, le tunnel de Fresnes Antony, le tunnel BLN (Bobigny Lumen Norton), le tunnel A14/A86. On dit aussi, le complexe A14/A86. Dans certains cas, nombreux,  le “regroupement” ne contient qu’un seul tunnel élémentaire (Landy, Courneuve, Taverny, A. Paré, Saint Cloud, Belle Rives, Fontenay, Chenevière, Italie, Bicêtre, Nogent, Champigny, Boissy …).
 Les regroupements qui auraient pu être envisagés comme Italie/Bicêtre,  A. Paré/Saint Cloud ne sont pas retenus.
 
- Dans la mesure où l’on veut dans cette démarche éviter l'ambiguïté du mot tunnel seul, on hésite sur le terme à employer pour désigner cette catégorie. Le terme “groupe de tunnels” convient mal aux nombreux objets qui sont aussi des tunnels élémentaires. Tunnel complet, tunnel autonome ne sont pas très satisfaisants. Dans l’attente d’une meilleure idée, on fait le choix d’inventer un mot : “tunnel&G”.
+ Dans la mesure où l’on veut, dans cette démarche, éviter l'ambiguïté du mot tunnel seul, on hésite sur le terme à employer pour désigner cette catégorie d'objets. Le terme “groupe de tunnels” convient mal aux nombreux tunnels élémentaires qui ne sont regroupés qu'avec eux-mêmes. Tunnel complet, tunnel autonome ne sont pas des expressions très satisfaisantes. Dans l’attente d’une meilleure idée proposé par un lecteur de ces lignes, on a fait le choix d’inventer un mot : “tunnel&G” qui sert de titre de colonne dans le tableau.
 
-## Et donc,  Combien de tunnels ?
+## Et donc,  Combien de tunnels à la DiRIF ?
 De la démarche décrite ci-dessous, on a produit trois listes emboitées qui contiennent :<br>
 63 tubes, <br>
 28 tunnels élémentaires, <br>
@@ -76,6 +76,9 @@ De la démarche décrite ci-dessous, on a produit trois listes emboitées qui co
 
 #### Et on sait un peu mieux combien de tunnel exploite la DiRIF !
 <br>
+A partir de la table des tubes et des tunnels, on a codé la représentation de ces objets, pour chacun des 4 secteurs de la DiRIF. <br>
+(voir ci-dessous)
+
 
 
 ![Nord](https://user-images.githubusercontent.com/47625071/180638181-b44b7e89-2231-4717-9fb1-748448179e0f.png)
