@@ -69,16 +69,16 @@ Les regroupements qui auraient pu être envisagés comme Italie/Bicêtre,  A. Pa
  Dans la mesure où l’on veut dans cette démarche éviter l'ambiguïté du mot tunnel seul, on hésite sur le terme à employer pour désigner cette catégorie. Le terme “groupe de tunnels” convient mal aux nombreux objets qui sont aussi des tunnels élémentaires. Tunnel complet, tunnel autonome ne sont pas très satisfaisants. Dans l’attente d’une meilleure idée, on fait le choix d’inventer un mot : “tunnel&G”.
 
 ## Et donc,  Combien de tunnels ?
-De la démarche décrite ci-dessous, on a produit trois liste emboitées qui contiennent :<br>
-63 tubes <br>
-28 tunnels élémentaires<br>
-20 groupes de tunnels pour 20 dossiers de sécurité.<br>
+De la démarche décrite ci-dessous, on a produit trois listes emboitées qui contiennent :<br>
+63 tubes, <br>
+28 tunnels élémentaires, <br>
+20 groupes de tunnels pour 20 dossiers de sécurité. <br>
 
-Et on sait un peu mieux combien de tunnel exploite la DiRIF !
+#### Et on sait un peu mieux combien de tunnel exploite la DiRIF !
+<br>
 
 
-
-![Nord (1)](https://user-images.githubusercontent.com/47625071/180638181-b44b7e89-2231-4717-9fb1-748448179e0f.png)
+![Nord](https://user-images.githubusercontent.com/47625071/180638181-b44b7e89-2231-4717-9fb1-748448179e0f.png)
 ![Est (1)](https://user-images.githubusercontent.com/47625071/180638182-126dcd7c-e6f0-40c0-8741-4fbf7d34f30c.png)
 ![Sud (1)](https://user-images.githubusercontent.com/47625071/180638183-bf42dacd-b959-4e09-94c8-715f3125d57e.png)
 ![Ouest (1)](https://user-images.githubusercontent.com/47625071/180638185-bbd2d1de-c427-4ce4-967a-223e137bf4ff.png)
