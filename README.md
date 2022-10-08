@@ -55,11 +55,19 @@ B8 (hors tronc commun avec B3 que l'on a choisi de traiter comme une entrée de 
 La séparation du tunnel de Nanterre et de l’échangeur est discutable. L’échangeur présente une unité conceptuelle mais les bretelles ont peu de dépendance aéraulique entre elles. Certaines bretelles ont en revanche une dépendance aéraulique avec les tubes du tunnel de Nanterre.
 
 Le tunnel élémentaire de Trinity est également une exception car il mesure moins de 200m et n’est donc pas dans le périmètre du CVR. Cependant, à la demande du préfet compétent, cet ouvrage est exploité comme un tunnel de plus de 300 mètres.
+
 ### Regroupement de tunnels dans les dossiers de sécurité élaborés selon le CVR
 Pour la gestion de la sécurité, on utilise un niveau d’agrégation supérieur en employant usuellement le terme “tunnel”, au singulier ou au pluriel. On peut dire : le tunnel d’Orly, les tunnels de Thiais, le tunnel de Fresnes Antony, le tunnel BLN (Bobigny Lumen Norton), le tunnel A14/A86. On dit aussi, le complexe A14/A86. Dans certains cas, nombreux,  le “regroupement” ne contient qu’un seul tunnel élémentaire (Landy, Courneuve, Taverny, A. Paré, Saint Cloud, Belle Rives, Fontenay, Chenevière, Italie, Bicêtre, Nogent, Champigny, Boissy …).
 Les regroupements qui auraient pu être envisagés comme Italie/Bicêtre, sur l'A6b, et A. Paré/Saint Cloud, sur l'A13, ne sont pas retenus.
 
  Dans la mesure où l’on veut, dans cette démarche, éviter l'ambiguïté du mot tunnel employé seul, on hésite sur le terme à employer pour désigner cette catégorie d'objets. Le terme “groupe de tunnels” convient mal aux nombreux tunnels élémentaires qui ne sont regroupés qu'avec eux-mêmes. Tunnel complet, tunnel autonome ne sont pas des expressions très satisfaisantes. Dans l’attente d’une meilleure idée proposé par un lecteur de ces lignes, on a fait le choix d’inventer un mot : “tunnel&G” qui sert provisoirement de titre de colonne dans le tableau ci-joint qui synthétise la démarche.
+
+## Que dit le système d'information des tunnels ?
+Le SI Tunnel de la DiRIF comporte au niveau local des automates de commandes des équipements pour la ventilation, l'éclairage, l'auto-évacuation etc ...  Dans les PCTT, on trouve la gestion technique centralisée (GTC) et le système d'aide à la gestion des tunnels (SAGTu). Les développements de ces applications sont mutualisés pour tous les tunnels gérés par la DiRIF. Le référentiel des lieux est contenu dans le fichier REF_LIEU_OU.csv.<br>
+Les objets de base sont linéaires et orientés, délimités par un PR de début et un PR de fin. <br> Chaque bretelle d'entrée, de sortie ou de liaison entre deux tunnels, si courte soit elle est isolée. En revanche des tubes aéroliquement indépendant ne sont pas distingués; c'est notamment le cas des tunnels de Bicêtre et d'Italie qui sont confondus sous la dénomination A6b, des tunnels de Lumen et Norton et des tunnels d'Orly. <br>
+Les sections principales sont identifiées par un suffix : TE,TI,TY,TW selon leur sens. Les entrée, sorties et autres bretelles ont des numéros : B1, B2, jusqu'à B9 pour l'échangeur A14/A86. Dans ce dernier cas, il y a un piège : les numéros des bretelles du SI tunnel ne sont pas les mêmes que ceux utilisés dans les fascicules d'exploitation et le dossier de sécurité. <br>
+Enfin, le référentiel contient les identifiants des segments de début et de fin utilisés dans le SI SIRIUS. Ce dernier SI sert à la gestion du trafic et à l'information des usagers sur les aléas de la circulation sur les réseaux de la DiRIF et des autres gestionnaires connexes.
+
 
 ## Et donc,  Combien de tunnels à la DiRIF ?
 De la démarche décrite ci-dessous, on a produit trois listes emboitées qui contiennent :<br>
