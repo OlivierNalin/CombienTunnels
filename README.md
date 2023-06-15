@@ -20,7 +20,7 @@ Dans l’échangeur A14/A86, la bretelle B3 (A86-E -> A14-W) présente une secti
 
 ### Notion de tunnel
 Il n’est pas possible de distinguer dans les usages variés du terme tunnel un même  niveau de regroupement des tubes correspondant au mot tunnel. On évitera donc d’utiliser le mot tunnel seul quand on voudra faire référence à une catégorie précise.
-##### Définition dtu terme : “tunnel élémentaire”
+##### Définition du terme : “tunnel élémentaire”
 Ensemble de tubes voisins constituant un regroupement simple au sens où il ne peut être décomposé en sous-ensembles, présentant chacun une unité, et de telle sorte que l’ensemble des tunnels élémentaires constitue un recouvrement des tunnels du champ considéré.
 Cette définition n’est pas très claire et il est plus facile de considérer des exemples : 
 Les tranchés couvertes d’Orly constituent deux tunnels élémentaires.
@@ -46,13 +46,13 @@ A86-I Nanterre et
 A86-E Nanterre 
 
 Le tunnel élémentaire de l’échangeur A14/A86 comprend les tubes :
-A14-Y/A86-E(B1),  
+A14-Y/A86-E(B1),
 A14-Y/A86-I(B2),
-A86-E/A14-W (B3)
-B4 (hors tronc commun avec B3)
-B5
+A86-E/A14-W (B3),
+B4 (hors tronc commun avec B3),
+B5,
 B8 (hors tronc commun avec B3 que l'on a choisi de traiter comme une entrée de l'A14-W)  <br>
-La séparation du tunnel de Nanterre et de l’échangeur est discutable. L’échangeur présente une unité conceptuelle mais les bretelles ont peu de dépendance aéraulique entre elles. Certaines bretelles ont en revanche une dépendance aéraulique avec les tubes du tunnel de Nanterre.
+La séparation du tunnel de Nanterre et de l’échangeur est discutable. L’échangeur présente une unité conceptuelle mais les bretelles ont peu de dépendances aérauliques entre elles. Certaines bretelles ont en revanche une dépendance aéraulique avec les tubes du tunnel de Nanterre.
 
 Le tunnel élémentaire de Trinity est également une exception car il mesure moins de 200m et n’est donc pas dans le périmètre du CVR. Cependant, à la demande du préfet compétent, cet ouvrage est exploité comme un tunnel de plus de 300 mètres.
 
