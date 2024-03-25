@@ -14,12 +14,14 @@ Quoi qu’il en soit, il est utile de définir la notion de tube qui est la form
 ##### Définition du terme : “tube” :
 Section de route linéique et sans bifurcation constituée d’un espace confiné aérauliquement connexe et délimité de telle sorte que l’ensemble des tubes constitue un recouvrement des tunnels, au sens du CVR, en minimisant le nombre de composants.
 
-En l’absence de bifurcation, la définition permet de déterminer l’étendu du tube auquel appartient un point d’une voirie confinée. Dans le cas d’une bifurcation, l’espace connexe doit être découpé en deux tubes. Pour faire ce découpage, on suivra autant que possible le sectionnement routier sous-jacent qui désigne celle des branches de la bifurcation qui constitue la continuité du tronc commun. Si cela ne suffit pas, on fera le choix qui semble le plus naturel. En cas de symétrie des sections des deux branches, on choisira en continuité du tronc commun la branche la plus longue. La longueur des ouvrages étant prise en compte dans la réglementation, il est utile qu’elle coïncide, autant que possible, avec la longueur des tubes que l’on définit.
-Les bifurcations simples sont les bretelles d’entrée ou de sortie, intérieures à l’espace confinées et qui ne présentent pas elles-mêmes de bifurcation. Il existe quelques cas de bifurcation multiple comme l’accès à l’A14-W depuis les nationales N192 & N1013.
+En l’absence de bifurcation, la définition permet de déterminer l’étendue du tube auquel appartient un point d’une voirie confinée. Dans le cas d’une bifurcation, l’espace connexe doit être découpé en deux tubes. Pour faire ce découpage, on suivra autant que possible le sectionnement routier sous-jacent qui désigne celle des branches de la bifurcation qui constitue la continuité du tronc commun. Si cela ne suffit pas, on fera le choix qui semble le plus naturel. En cas de symétrie des sections des deux branches, on choisira en continuité du tronc commun la branche la plus longue. La longueur des ouvrages étant prise en compte dans la réglementation, il est utile qu’elle coïncide, autant que possible, avec la longueur des tubes que l’on définit.
+Les bifurcations simples sont les bretelles d’entrée ou de sortie, intérieures à l’espace confinées et qui ne présentent pas elles-mêmes de bifurcation. Il existe quelques cas de bifurcations multiples comme l’accès à l’A14-W depuis les nationales N192 & N1013.
 Dans l’échangeur A14/A86, la bretelle B3 (A86-E -> A14-W) présente une section commune avec  la bretelle B4 (A86-E -> A14-Y)  qui est plus courte. On distingue le tube correspondant à la bretelle B3, dont le tronc commun B3-B4, et le tube correspondant à la bretelle B4, hors tronc commun.
 
 ### Notion de tunnel
-Il n’est pas possible de distinguer dans les usages variés du terme tunnel un même  niveau de regroupement des tubes correspondant au mot tunnel. On évitera donc d’utiliser le mot tunnel seul quand on voudra faire référence à une catégorie précise.
+Le mot tunnel appartient à la langue commune et il est utilisé avec des significations très différentes. Il n’est pas possible de distinguer, dans les usages variés du terme tunnel, un même niveau de regroupement des tubes correspondant au mot tunnel. On évitera donc d’utiliser le mot tunnel seul quand on voudra faire référence à une catégorie précise d'objets.  
+On choisi l'expression *tunnel élémentaire* et on lui confère un sens plus précis.
+
 ##### Définition du terme : “tunnel élémentaire”
 Ensemble de tubes voisins constituant un regroupement simple au sens où il ne peut être décomposé en sous-ensembles, présentant chacun une unité, et de telle sorte que l’ensemble des tunnels élémentaires constitue un recouvrement des tunnels du champ considéré.
 Cette définition n’est pas très claire et il est plus facile de considérer des exemples : 
@@ -39,7 +41,7 @@ A14-W/D7,
  N192-W/A14-W dont la section commune avec N1013-W
  N1013-W
 A14-W/D914 et
-Tronc commun B3-B8(tube de 150 aérauliquement dépendant du tube A14-W)
+Tronc commun B3-B8(tube de 150 mètres, aérauliquement dépendant du tube A14-W)
 
 Le tunnel élémentaire A86 Nanterre comprend les tubes : 
 A86-I Nanterre et 
@@ -57,25 +59,25 @@ La séparation du tunnel de Nanterre et de l’échangeur est discutable. L’é
 Le tunnel élémentaire de Trinity est également une exception car il mesure moins de 200m et n’est donc pas dans le périmètre du CVR. Cependant, à la demande du préfet compétent, cet ouvrage est exploité comme un tunnel de plus de 300 mètres.
 
 ### Regroupement de tunnels dans les dossiers de sécurité élaborés selon le CVR
-Pour la gestion de la sécurité, on utilise un niveau d’agrégation supérieur en employant usuellement le terme “tunnel”, au singulier ou au pluriel. On peut dire : le tunnel d’Orly, les tunnels de Thiais, le tunnel de Fresnes Antony, le tunnel BLN (Bobigny Lumen Norton), le tunnel A14/A86. On dit aussi, le complexe A14/A86. Dans certains cas, nombreux,  le “regroupement” ne contient qu’un seul tunnel élémentaire (Landy, Courneuve, Taverny, A. Paré, Saint Cloud, Belle Rives, Fontenay, Chenevière, Italie, Bicêtre, Nogent, Champigny, Boissy …).
+Pour la gestion de la sécurité, on utilise un niveau d’agrégation supérieur en employant usuellement le terme “tunnel”, au singulier ou au pluriel. On peut dire : le tunnel d’Orly, les tunnels de Thiais, le tunnel de Fresnes Antony, le tunnel BLN (Bobigny Lumen Norton), le tunnel A14/A86. On dit aussi, le complexe A14/A86. Dans certains cas, nombreux, le “regroupement” ne contient qu’un seul tunnel élémentaire (Landy, Courneuve, Taverny, A. Paré, Saint Cloud, Belle Rives, Fontenay, Chenevière, Italie, Bicêtre, Nogent, Champigny, Boissy …).
 Les regroupements qui auraient pu être envisagés comme Italie/Bicêtre, sur l'A6b, et A. Paré/Saint Cloud, sur l'A13, ne sont pas retenus.
 
  Dans la mesure où l’on veut, dans cette démarche, éviter l'ambiguïté du mot tunnel employé seul, on hésite sur le terme à employer pour désigner cette catégorie d'objets. Le terme “groupe de tunnels” convient mal aux nombreux tunnels élémentaires qui ne sont regroupés qu'avec eux-mêmes. Tunnel complet, tunnel autonome ne sont pas des expressions très satisfaisantes. Dans l’attente d’une meilleure idée proposé par un lecteur de ces lignes, on a fait le choix d’inventer un mot : “tunnel&G” qui sert provisoirement de titre de colonne dans le tableau ci-joint qui synthétise la démarche.
 
 ## Que dit le système d'information des tunnels ?
-Le SI Tunnel de la DiRIF comporte, à l'intérieur de chaque tunnel, des automates de commandes des équipements pour la ventilation, l'éclairage, l'auto-évacuation etc ...  Dans les PCTT, on trouve la gestion technique centralisée (GTC) et le système d'aide à la gestion des tunnels (SAGTu). Les développements de ces applications sont mutualisés pour tous les tunnels gérés par la DiRIF. Les tunnels faisant partie du réseau routier, le SI tunnel est interfacé avec le SI trafic, SIRIUS. Les information de localisation sont échangées entre ces SI dont les référentiels doivent être compatibles. Le référentiel des lieux du SI tunnel est contenu dans le fichier REF_LIEU_OU.csv.<br>
+Le SI Tunnel de la DiRIF comporte, à l'intérieur de chaque tunnel, des automates de commandes des équipements pour la ventilation, l'éclairage, l'auto-évacuation etc ...  Dans les PCTT, on trouve la gestion technique centralisée (GTC) et le système d'aide à la gestion des tunnels (SAGTu). Les développements de ces applications sont mutualisés pour tous les tunnels gérés par la DiRIF. Les tunnels faisant partie du réseau routier, le SI tunnel est interfacé avec le SI trafic, SIRIUS. Les informations de localisation sont échangées entre ces deux SI dont les référentiels doivent être compatibles. Le référentiel des lieux du SI tunnel est contenu dans le fichier REF_LIEU_OU.csv.<br>
 Sur les 110 lignes de ce fichier 26 correspondent à des "regroupements de tunnel" qui ne correspondent pas exactement au regroupement mentionné ci-dessus. Ces lignes seront exclues pour ne conserver que les 84 lignes qui décrivent des objets de nature homogène. Les 84 objets de base du référentiel sont linéaires et orientés, délimités par un PR de début et un PR de fin. <br> 
-Chaque bretelle d'entrée, de sortie ou de liaison entre deux tunnels, si courte soit elle est isolée et figure dans le référentiel. En revanche des tubes aéroliquement indépendants ne sont pas distingués; c'est notamment le cas des tunnels de Bicêtre et d'Italie, qui sont confondus sous la dénomination A6b, ainsi que des tunnels de Lumen et Norton et des tunnels d'Orly. <br>
+Chaque bretelle d'entrée, de sortie ou de liaison entre deux tunnels, si courte soit-elle est isolée et figure dans le référentiel. En revanche des tubes aéroliquement indépendants ne sont pas distingués; c'est notamment le cas des tunnels de Bicêtre et d'Italie, qui sont confondus sous la dénomination A6b, ainsi que des tunnels de Lumen et Norton et des tunnels d'Orly. <br>
 Les sections principales sont identifiées par un suffix du champ 'CODE_INFO' : TE,TI,TY,TW selon leur sens. Les entrées, sorties et autres bretelles ont des numéros : B1, B2, jusqu'à B9 pour l'échangeur A14/A86. Dans ce dernier cas, il y a un piège : les numéros des bretelles du SI tunnel ne sont pas exactement les mêmes que ceux utilisés dans les fascicules d'exploitation et le dossier de sécurité. (Il conviendra de vérifier si l'information données à l'opérateur ne présente pas un risque de confusion lorsqu'une alerte survient sur les bretelles concernées.) <br>
 Enfin, le référentiel contient les identifiants des segments de début et de fin utilisés dans le SI SIRIUS. Ce dernier SI sert à la gestion du trafic et à l'information des usagers sur les aléas de la circulation sur les réseaux de la DiRIF et des autres gestionnaires connexes.<br>
-On a vérifié que les PR de début figurant dans le référentiel correspondent au PR de début du segment SIRIUS de début et les PR de fin figurant dans le référentiel correspondent au PR de fin du segment SIRIUS de fin. Les seules exceptions à cette règles concerne le tunnel de Nogent où l'on constate des écart de 50 mètres. <br>
+On a vérifié que les PR de début figurant dans le référentiel du SI Tunnel correspondent au PR de début du segment SIRIUS de début et les PR de fin figurant dans le référentiel correspondent au PR de fin du segment SIRIUS de fin. Les seules exceptions à cette règles concerne le tunnel de Nogent où l'on constate des écart de 50 mètres. <br>
 Il reste à vérifier que les segments SIRIUS ont été découpés de manière à ce que les extrémités de tubes correspondent à des extémités de segments c'est à dire que les PR d'extrémité coincident avec la réalité physique des tunnels.
 
 ## Et donc,  Combien de tunnels à la DiRIF ?
 De la démarche décrite ci-dessous, on a produit trois listes emboitées qui contiennent :<br>
 63 tubes, <br>
 28 tunnels élémentaires, <br>
-20 groupes de tunnels, pour 20 dossiers de sécurité mis à jour tous les 6ans. <br>
+20 groupes de tunnels, pour 20 dossiers de sécurité mis à jour en principe tous les 6ans. <br>
 
 #### Et on sait un peu mieux combien de tunnels exploite la DiRIF !
 <br>
